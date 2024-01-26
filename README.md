@@ -1,11 +1,5 @@
 # LIN3046_A1_Group1H
 
-try
+Purpose:
 
-
-sss
-sssssss
-
-hvhqvdhv
-
-#This is a link[LINK] [https://gointothestory.blcklst.com/script-download-links-9313356d361c]
+Scope:
