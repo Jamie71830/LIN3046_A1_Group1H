@@ -1,7 +1,7 @@
 # LIN3046_A1_Group1H
 
 Purpose:
-find out the ratio of positive expression to negative expression in dialogues
+find out the ratio of positive expression to negative words in dialogues
 
 Scope:
 US comedy movie from 2014 to 2024
