@@ -1,5 +1,5 @@
 Script file:
-name:moviename in CAPITAL LETTERS, spacing by underline("_")
+naming:moviename in CAPITAL LETTERS, spacing by underline("_"), delete other symbols(e.g. ",", ":") if there are any
 format: pdf
 
 Script additional info(metadatalist):
