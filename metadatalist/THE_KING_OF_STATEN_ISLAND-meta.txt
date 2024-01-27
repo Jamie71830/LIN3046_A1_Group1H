@@ -1,5 +1,6 @@
-THE KING OF STATEN ISLAND
-Judd Apatow, Pete Davidson, Dave Sirus
-Judd Apatow
-2019
-136
+movie name: The King of Staten Island 
+screenplay by: Judd Apatow, Pete Davidson, Dave Sirus
+directed by: Judd Apatow
+release date (US): June 12,2020
+movie length (mins): 136
+studio: Universal Pictures
