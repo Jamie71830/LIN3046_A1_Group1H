@@ -1,5 +1,6 @@
-Movie name: THE MITCHELLS VS. THE MACHINES
-Screenplay by: 
-Directed by: 
-Year of release (US):  
-Movie length (mins):
+movie name: The Mitchells vs. the Machines 
+screenplay by: Mike Rianda, Jeff Rowe
+directed by: Mike Rianda
+release date (US): April 30,2021
+movie length (mins): 114
+studio: Netflix/Sony Pictures Animation/One Cool Films
