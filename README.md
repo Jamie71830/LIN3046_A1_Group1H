@@ -11,7 +11,7 @@ US comedy movie from 2014 to 2024, first 30 lines dialogues
 1. movie name: 
 2. screenplay by: 
 3. directed by: 
-4. year of release (US):  
+4. Release date (US):  
 5. movie length (mins):
 ```
 
