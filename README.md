@@ -13,7 +13,7 @@ US comedy movie from 2014 to 2024, dialogues from the script
 3. directed by: 
 4. Release date (US):  
 5. movie length (mins):
-6. Studio:
+6. studio:
 ```
 
 ### Guide:
