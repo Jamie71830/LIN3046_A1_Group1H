@@ -1,5 +1,5 @@
 ## Script:
-
+ 
 BURT BERENDSEN Where’s this going?
 HAROLD WOODMAN It’s going to a particular
 procedure and I know how you prefer some procedures over others.
@@ -67,8 +67,3 @@ met. He formed our regiment.
 BURT BERENDSEN
 How did a man like this end up
 dead? You’re telling me it’s suspicious?
-
-## Movie name: Amsterdam
-## Screenplay by David O. Russell
-## Year of release (US): 2022
-## Movie length: 134 
