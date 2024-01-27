@@ -81,3 +81,8 @@ BARBIE MARGOT
 Come on, Kens, nobody is going to
 beach anyone off!
 
+## Movie name: Barbie
+## Directed by Greta Gerwig 
+## Screenplay by Greta Gerwig & Noah Baumbach 
+## Release date (US): July 21, 2023
+## Movie length: 114
