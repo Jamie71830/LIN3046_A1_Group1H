@@ -1,5 +1,6 @@
-Movie name: Dumb Money
-Screenplay by: Rebecca Angelo & Lauren Schuker Blum
-Directed by: 	Craig Gillespie
-Year of release (US):  2023
-Movie length (mins): 105
+movie name: Dumb Money
+screenplay by: Rebecca Angelo & Lauren Schuker Blum
+directed by: Craig Gillespie
+release date (US):  September 15,2023
+movie length (mins): 104
+studio: Sony
