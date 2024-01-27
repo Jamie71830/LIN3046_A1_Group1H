@@ -1,0 +1,6 @@
+movie name: May December
+screenplay by: Samy Burch
+directed by: Todd Haynes 
+release date (US): November 17,2023
+movie length (mins): 117
+studio: Netflix
