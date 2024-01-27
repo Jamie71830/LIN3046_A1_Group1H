@@ -1,5 +1,6 @@
-BORAT SUBSEQUENT MOVIEFILM
-Sacha Baron Cohen, Anthony Hines, Dan Swimer, Peter Baynham, Erica Rivinoja, Dan Mazer, Jena Friedman, Lee Kern
-Jason Woliner
-2020
-96
+movie name: Borat Subsequnet Moviefilm
+screenplay by: ESacha Baron Cohen, Anthony Hines, Dan Swimer, Peter Baynham, Erica Rivinoja, Dan Mazer, Jena Friedman, Lee Kern
+directed by: Jason Woliner
+release date (US): October 23,2020
+movie length (mins): 96
+studio: Amazon Studios
