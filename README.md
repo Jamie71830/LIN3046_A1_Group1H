@@ -10,4 +10,4 @@ __Guide:__
 
 [/dataset](dataset): gather up data in .txt format
 
-[/metadatalist](LIN3046_A1_Group1H/metadatalist): gather up metadatalist in .txt format
+[/metadatalist](metadatalist): gather up metadatalist in .txt format
