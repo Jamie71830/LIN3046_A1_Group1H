@@ -1,14 +1,13 @@
 # LIN3046_A1_Group1H
 
-Purpose:
-to find out the ratio of negative wording in dialogues of the movie scripts 
+__Purpose:__
+to find out the ratio of negative expression in dialogues of the movie scripts 
 
-Scope:
-US comedy movie from 2014 to 2024
+__Scope:__
+US comedy movie from 2014 to 2024, first 30 lines dialogues
 
-Metadata list:
-1.  movie name
-2.  screenplay by
-3.  directed by
-4.  movie length (mins)
-5.  year of release (US)
+__Guide:__
+
+[/dataset](LIN3046_A1_Group1H//dataset): gather up data in .txt format
+
+[/metadatalist](LIN3046_A1_Group1H/metadatalist): gather up metadatalist in .txt format
