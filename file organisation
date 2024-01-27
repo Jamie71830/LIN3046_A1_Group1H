@@ -1,10 +1,18 @@
 Script file:
 add to the folder"/dataset"
 naming:moviename in CAPITAL LETTERS, spacing by underline("_"), delete other symbols(e.g. ",", ":") if there are any
-format: pdf
+format: txt
 
 Script additional info(metadatalist):
-1. movie name
-2. screenplay by
-3. year of release (US)
-4. movie length
+1. movie name (CAPITAL LETTER)
+2. screenplay by (use "," to separate muitiple writers, fisrt letter in CAPITAL)
+3. directed by (fisrt letter in CAPITAL)
+4. year of release (US)
+5. movie length (mins)
+
+format of metadatalist to copy:
+1. movie name: 
+2. screenplay by: 
+3. directed by: 
+4. movie length (mins): 
+5. year of release (US): 
