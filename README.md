@@ -1,12 +1,12 @@
 # LIN3046_A1_Group1H
 
-__Purpose:__
+# Purpose:
 to find out the ratio of negative expression in dialogues of the movie scripts 
 
-__Scope:__
+# Scope:
 US comedy movie from 2014 to 2024, first 30 lines dialogues
 
-__Metadatalist:__
+# Metadatalist:
 ```
 1. movie name: 
 2. screenplay by: 
@@ -15,7 +15,7 @@ __Metadatalist:__
 5. movie length (mins):
 ```
 
-__Guide:__
+# Guide:
 
 [/dataset](dataset): gather up data in .txt format
 
