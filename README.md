@@ -10,5 +10,5 @@ Metadata list:
 1.  movie name
 2.  screenplay by
 3.  directed by
-4.  movie length(mins)
+4.  movie length (mins)
 5.  year of release (US)
