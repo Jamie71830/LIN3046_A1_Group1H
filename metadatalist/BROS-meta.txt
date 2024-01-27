@@ -1,6 +1,6 @@
-Movie name: Bros
-Screenplay by: Billy Eichner and Nicholas Stoller
-Directed by: Nicholas Stoller
-Release date (US): 2022
-Movie length (mins): 115
-Studio: Universal Pictures 
+movie name: Bros
+screenplay by: Billy Eichner and Nicholas Stoller
+directed by: Nicholas Stoller
+release date (US): 2022
+movie length (mins): 115
+studio: Universal Pictures 
