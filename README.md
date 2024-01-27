@@ -1,7 +1,7 @@
 # LIN3046_A1_Group1H
 
 Purpose:
-to find out the ratio of negative expressions in dialogues of the movie scripts 
+to find out the ratio of negative wording in dialogues of the movie scripts 
 
 Scope:
 US comedy movie from 2014 to 2024
