@@ -1,5 +1,6 @@
-BAD TRIP
-Dirk Visser
-Kitao Sakurai
-2021
-84
+movie name: Bad Trip
+screenplay by: Dirk Visser
+directed by: Kitao Sakurai
+release date (US): March 26,2021
+movie length (mins): 84
+studio: Netflix
