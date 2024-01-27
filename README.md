@@ -4,7 +4,7 @@
 to find out the ratio of negative expression in dialogues of the movie scripts 
 
 ## Scope:
-US comedy movie from 2014 to 2024, first 30 lines dialogues
+US comedy movie from 2014 to 2024, dialogues from the script
 
 ## Metadatalist:
 ```
@@ -13,6 +13,7 @@ US comedy movie from 2014 to 2024, first 30 lines dialogues
 3. directed by: 
 4. Release date (US):  
 5. movie length (mins):
+6. Studio:
 ```
 
 ### Guide:
