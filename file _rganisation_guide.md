@@ -14,5 +14,5 @@ metadatalist:
 4. year of release (US)
 5. movie length (mins)
 ```
-+ only includes information but not title, follows the order in the aboved
++ only includes informations but not titles, follows the order in the aboved
 + naming: same as script file + "-meta"
