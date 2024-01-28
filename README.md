@@ -4,7 +4,7 @@
 to find out the ratio of negative expression in dialogues of the movie scripts 
 
 ## Scope:
-US comedy movie from 2014 to 2024, dialogues from the script
+US comedy movie from 2014 to 2024, dialogues from the script(30 dialogues)
 
 ## Metadatalist:
 ```
