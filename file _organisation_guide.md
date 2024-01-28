@@ -11,7 +11,7 @@
 + add to the folder"/metadatalist"
 + naming: same as script file + "-meta"
 + format: txt
-+ only includes informations but not titles, follows the order in the aboved
++ only includes informations but not titles, follows the order belowed:
 ```
 1. movie name 
 2. screenplay by (use "," to separate muitiple writers)
