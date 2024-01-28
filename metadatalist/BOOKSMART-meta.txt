@@ -1,8 +1,5 @@
 movie name: Booksmart
-screenplay by: Emily Halpern & Sarah Haskins
-and Susanna Fogel
-and
-Katie Silberman
+screenplay by: Emily Halpern & Sarah Haskins,Susanna Fogel and Katie Silberman
 directed by: Olivia Wilde
 release date (US): May 24,2019
 movie length (mins): 105
