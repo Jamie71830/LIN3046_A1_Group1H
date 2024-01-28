@@ -1,6 +1,6 @@
-Movie name: Zola
-Screenplay by: Janicza Bravo, Jeremy O. Harris
-Directed by: Janicza Bravo
-Year of release (US):  June 30, 2021 
-Movie length (mins): 86
+movie name: Zola
+screenplay by: Janicza Bravo, Jeremy O. Harris
+directed by: Janicza Bravo
+year of release (US):  June 30, 2021 
+movie length (mins): 86
 studio: A24
