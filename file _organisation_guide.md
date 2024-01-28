@@ -16,6 +16,7 @@
 1. movie name 
 2. screenplay by (use "," to separate muitiple writers)
 3. directed by 
-4. year of release (US)
+4. Release date (US)
 5. movie length (mins)
+6. studio:
 ```
