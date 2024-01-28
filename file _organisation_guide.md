@@ -1,4 +1,4 @@
-## Script file:
+## script file:
 
 + add to the folder"/dataset"
 + naming:moviename in CAPITAL LETTERS, spacing by underline("_"), delete other symbols(e.g. ",", ":") if there are any
