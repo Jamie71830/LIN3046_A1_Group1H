@@ -8,9 +8,9 @@
 
 ## metadatalist:
 ```
-1. movie name (CAPITAL LETTER)
-2. screenplay by (use "," to separate muitiple writers, fisrt letter in CAPITAL)
-3. directed by (fisrt letter in CAPITAL)
+1. movie name 
+2. screenplay by (use "," to separate muitiple writers)
+3. directed by 
 4. year of release (US)
 5. movie length (mins)
 ```
