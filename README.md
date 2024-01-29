@@ -16,13 +16,17 @@ US comedy movie from 2014 to 2024, dialogues from the script(30 dialogues)
 6. studio:
 ```
 
-## Group Memebers
+## Group Members
 ```
 1. Cheung Wing Yau
 2. Ho Sin Ting
 3. Lam Ho Fung Jamie
 ```
 
+## Website to find movie scripts
+```
+https://gointothestory.blcklst.com/script-download-links-9313356d361c
+```
 ### Guide:
 
 [/dataset](dataset): gather up data in .txt format
