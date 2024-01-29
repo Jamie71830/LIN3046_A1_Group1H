@@ -25,7 +25,7 @@ US comedy movie from 2014 to 2024, dialogues from the script(30 dialogues)
 
 ## Website to find movie scripts
 ```
-this is the [Link](https://gointothestory.blcklst.com/script-download-links-9313356d361c/) to find the movie scripts 
+https://gointothestory.blcklst.com/script-download-links-9313356d361c
 ```
 ### Guide:
 
