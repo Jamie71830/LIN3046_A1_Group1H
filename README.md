@@ -16,6 +16,13 @@ US comedy movie from 2014 to 2024, dialogues from the script(30 dialogues)
 6. studio:
 ```
 
+## Group Memebers
+```
+1. Cheung Wing Yau
+2. Ho Sin Ting
+3. Lam Ho Fung Jamie
+```
+
 ### Guide:
 
 [/dataset](dataset): gather up data in .txt format
